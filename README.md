@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 EF Commander Free Installer** — EF Commander is a powerful dual-pane file manager for Windows with a long feature list including built-in archive management, FTP/SFTP, file synchronization, a hex editor, image viewer, and text editor. Works without internet access, no account required. Full offline installation.
+**💻 EF Commander Free Installer** — EF Commander is a Windows dual-pane file manager with an extensive feature set including FTP client, archive support, viewer for dozens of file types, synchronization, and batch rename — a comprehensive alternative to Total Commander. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About EF Commander
 
-EF Commander is a powerful dual-pane file manager for Windows with a long feature list including built-in archive management, FTP/SFTP, file synchronization, a hex editor, image viewer, and text editor. Combining file management with many auxiliary tools, EF Commander aims to be a complete file management workstation for Windows power users who want everything in one application.
+EF Commander is a Windows dual-pane file manager with an extensive feature set including FTP client, archive support, viewer for dozens of file types, synchronization, and batch rename — a comprehensive alternative to Total Commander.
 
 ---
 
 ## ❌ Problem: EF Commander is hard to access
 
-- **Windows Only** — No cross-platform support
-- **Commercial License** — Paid license required
-- **Interface Density** — Feature-rich interface takes time to learn fully
-- **Learning Curve** — Maximizing productivity requires learning many built-in tools
+- **Windows Only** — Not available on macOS or Linux
+- **Paid License** — Requires purchase
+- **Dated Interface** — Visual design reflects older Windows file manager conventions
+- **Niche Market** — Power file manager market dominated by Total Commander loyalty
 
 ---
 
@@ -121,7 +121,7 @@ EF Commander is a powerful dual-pane file manager for Windows with a long featur
 
 ---
 
-**EF Commander Free Installer** — EF Commander is a powerful dual-pane file manager for Windows with a long feature list including built-in archive management, FTP/SFTP, file synchronization, a hex editor, image viewer, and text editor. Install without internet connection today!
+**EF Commander Free Installer** — EF Commander is a Windows dual-pane file manager with an extensive feature set including FTP client, archive support, viewer for dozens of file types, synchronization, and batch rename — a comprehensive alternative to Total Commander. Install without internet connection today!
 
 <div align="center">
 
